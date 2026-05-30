@@ -157,6 +157,7 @@ class Ramanathan:
 | **🤖 [AI Task Assistant](https://github.com/Ramanathan06/task_assistant_AI)** | Python · FastAPI · Streamlit | Multi-agent system with a **Planner / Executor / Updater** architecture for autonomous task decomposition; Streamlit UI for NL task creation & real-time tracking |
 | **🏭 [AI App Factory Platform](https://github.com/Ramanathan06/APPFactory)** | Next.js · TypeScript · HTML5 · CSS3 | Frontend for an AI code-generation platform converting **natural-language prompts → deployable apps** via agent-factory / app-factory / website-pipeline workflows |
 | **🐝 [Hive Query Web Interface](https://github.com/Ramanathan06/hive)** | Node.js · JavaScript · SQL | Big-data query UI across **Apache Hive, Presto & BigQuery** with a syntax-aware editor and tabular / JSON / CSV output |
+| **🧠 [GenAI RAG Assistant](https://github.com/Ramanathan06/genai-rag-assistant)** | Python · RAG · Embeddings · SQL | Document-grounded chatbot with a **chunking → embeddings → similarity-search** retrieval pipeline over uploaded files, a SQL-backed store, and a lightweight web UI |
 
 </div>
 
