@@ -1,10 +1,10 @@
 <!-- ════════════════════ 1. HERO BANNER ════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ramanathan%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20NLP%20%7C%20Computer%20Vision%20%7C%20Agentic%20AI&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ramanathan%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20Data%20Science%20Engineer%20%7C%20Python%20%C2%B7%20Transformers%20%C2%B7%20Agentic%20AI&descAlignY=62&descSize=16" width="100%"/>
 
 <!-- ════════════════════ 2. TYPING HEADER ════════════════════ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Data+Science;NLP+%7C+Computer+Vision+%7C+Agentic+AI;Python+%7C+FastAPI+%7C+Transformers;Oracle+OCI+GenAI+Professional+Certified)](https://github.com/Ramanathan06)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%2F+Data+Science+Engineer;NLP+%7C+Computer+Vision+%7C+Agentic+AI;Python+%7C+FastAPI+%7C+Transformers;Oracle+OCI+GenAI+Professional+Certified)](https://github.com/Ramanathan06)
 
 <a href="https://linkedin.com/in/ramanathanwebdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kalaimuruganandam6@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
