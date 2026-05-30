@@ -10,6 +10,10 @@
 <a href="mailto:kalaimuruganandam6@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Ramanathan06&style=flat-square&color=70a5fd&label=Profile+Views"/>
 
+<br><br>
+
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
 
 <!-- ════════════════════ 3. CODE-BLOCK ABOUT ME ════════════════════ -->
@@ -75,6 +79,19 @@ class Ramanathan:
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+<!-- ════════════════════ PROFILE SUMMARY CARDS ════════════════════ -->
+## 📌 Profile Summary
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramanathan06&theme=tokyonight"/>
+
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramanathan06&theme=tokyonight"/>
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ramanathan06&theme=tokyonight"/>
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramanathan06&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
 <!-- ════════════════════ 5 & 6. GITHUB STATS + TOP LANGS ════════════════════ -->
 ## 📊 GitHub Analytics
 
@@ -98,6 +115,19 @@ class Ramanathan:
 ## 📈 Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ramanathan06&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Ramanathan06)
+
+<!-- ════════════════════ CONTRIBUTION SNAKE ════════════════════ -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ramanathan06/Ramanathan06/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramanathan06/Ramanathan06/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Ramanathan06/Ramanathan06/output/github-snake.svg" />
+</picture>
+
+</div>
 
 <!-- ════════════════════ 9. TROPHY WALL ════════════════════ -->
 ## 🏆 Trophy Wall
