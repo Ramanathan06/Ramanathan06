@@ -92,18 +92,6 @@ class Ramanathan:
 
 </div>
 
-<!-- ════════════════════ 5 & 6. GITHUB STATS + TOP LANGS ════════════════════ -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/Ramanathan06">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ramanathan06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/Ramanathan06">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramanathan06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
-
 <!-- ════════════════════ 7. STREAK STATS ════════════════════ -->
 <div align="center">
 
@@ -126,15 +114,6 @@ class Ramanathan:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramanathan06/Ramanathan06/output/github-snake.svg" />
   <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Ramanathan06/Ramanathan06/output/github-snake.svg" />
 </picture>
-
-</div>
-
-<!-- ════════════════════ 9. TROPHY WALL ════════════════════ -->
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Ramanathan06&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Ramanathan06)
 
 </div>
 
