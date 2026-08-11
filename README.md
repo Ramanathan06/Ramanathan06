@@ -1,60 +1,66 @@
-<!-- ════════════════════ HERO BANNER ════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6366f1,7c3aed,8b5cf6,a855f7&height=200&section=header&text=Ramanathan%20M&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%7C%20Python%20%C2%B7%20Transformers%20%C2%B7%20Agentic%20AI&descSize=17&descAlignY=55"/>
+<!-- ════════════════════ MCU HERO BANNER ════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ED1D24,C8102E,B8232F,FFD700&height=200&section=header&text=RAMANATHAN%20M&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20ENGINEER%20%C2%B7%20EARTH-616%20%C2%B7%20CHENNAI%20SECTOR&descSize=16&descAlignY=55"/>
 
-<!-- ════════════════════ TYPING HEADER ════════════════════ -->
 <div align="center">
 
 <a href="https://github.com/Ramanathan06">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Turning+data+into+decisions;And+prompts+into+products;NLP+%7C+Computer+Vision+%7C+Agentic+AI;Oracle+OCI+GenAI+Professional+Certified" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=ED1D24&center=true&vCenter=true&width=780&lines=%22I+am+Ramanathan.%22;AI+Engineer+%7C+NLP+%7C+Computer+Vision;Turning+data+into+decisions;Avengers...+Assemble." alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ramanathan06&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Ramanathan06&label=S.H.I.E.L.D.%20CLEARANCE&color=ED1D24&style=for-the-badge" alt="clearance"/>
 <a href="https://github.com/Ramanathan06?tab=followers">
-  <img src="https://img.shields.io/github/followers/Ramanathan06?label=Followers&style=for-the-badge&color=6366f1&labelColor=0d1117" alt="followers"/>
+  <img src="https://img.shields.io/github/followers/Ramanathan06?label=ALLIES&style=for-the-badge&color=FFD700&labelColor=1A1A1A" alt="followers"/>
 </a>
 <a href="https://linkedin.com/in/ramanathanwebdev">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:kalaimuruganandam6@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/COMMS-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote"/>
+<img src="https://media.giphy.com/media/3GnKKEw2v7bXi/giphy.gif" width="420px"/>
 
 </div>
 
-<!-- ════════════════════ ABOUT ME ════════════════════ -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp; About Me
+<br/>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<!-- ════════════════════ S.H.I.E.L.D. DOSSIER ════════════════════ -->
+<h2 align="center">🛡️ ORIGIN STORY 🛡️</h2>
 
-```python
-class Ramanathan:
-    def __init__(self):
-        self.name     = "Ramanathan M"
-        self.location = "Chennai, India 🇮🇳"
-        self.role     = "AI Engineer"
-        self.degree   = "B.Tech, Artificial Intelligence & Data Science"
-        self.stack    = ["Python", "FastAPI", "Transformers",
-                         "scikit-learn", "OpenCV"]
-        self.learning = ["LangGraph", "RAG Systems", "LLM Fine-Tuning"]
-        self.fun_fact = "Co-authored 2 peer-reviewed papers 📄"
-
-    def motto(self):
-        return "Turning data into decisions and prompts into products."
-
-
-me = Ramanathan()
-print(me.motto())
+```zsh
+shield@helicarrier: ~/personnel (level-7⚡)$ ./dossier --agent RAMANATHAN
 ```
 
-<br clear="right"/>
+<img align="left" src="https://media.giphy.com/media/5wu6zc60M9GmscmFje/200w.gif" width="270px"/>
 
-<!-- ════════════════════ TECH ARSENAL ════════════════════ -->
+```csharp
+S.H.I.E.L.D. PERSONNEL FILE ver. 2.0.0 :: "Turning data into decisions and prompts into products."
+--------------------------------------------------------------------------------------------------
+Codename:        Ramanathan M 「ラマナタン」
+Designation:     AI Engineer · NLP · Computer Vision · Agentic AI
+Base:            Chennai, India 🇮🇳 (Earth-616, Sector 600-001)
+Academy:         B.Tech, Artificial Intelligence & Data Science
+Clearance:       Oracle OCI Generative AI Professional — Level 85
+Affiliation:     Avengers Initiative // Open Source Division
+Primary Weapon:  Python 🐍 (the Mjolnir of languages — it just works)
+Sidearms:        FastAPI · Transformers · scikit-learn · OpenCV
+Training:        LangGraph · RAG Systems · LLM Fine-Tuning
+Field Record:    2 peer-reviewed papers · 100+ algorithmic & SQL problems solved
+Pronouns:        He/Him
+Contact:         kalaimuruganandam6@gmail.com
+Status:          ACTIVE — open to collaboration on AI-powered products
+--------------------------------------------------------------------------------------------------
+"Whatever it takes." — and usually, it takes one more commit.
+```
+
+<br clear="left"/>
+
+<br/>
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; Tech Arsenal
 
 <div align="center">
