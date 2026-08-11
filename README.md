@@ -180,6 +180,12 @@ Browse the rest of the work — automation tools, ML notebooks and full-stack ex
 
 <div align="center">
 
+<a href="https://github.com/Ramanathan06">
+  <img width="495" src="https://hyperweave.app/v1/stats/Ramanathan06/automata?variant=sulfur" alt="Ramanathan's GitHub Stats"/>
+</a>
+
+<br/><br/>
+
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramanathan06&theme=tokyonight"/>
 
 <br/><br/>
